@@ -19,6 +19,7 @@ I love travelling and photographing beautiful scenery. Like this:
 
 #### flowers :blossom:
 Arranging flowers is one of my hobbies. Here is the most satisfying work:
+
 <img src="assets/flowers.jpg" alt="flowers" width="40%" />
 
 ## Favorite Words
